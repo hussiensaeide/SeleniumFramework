@@ -1,0 +1,6 @@
+login -> class signup test 
+go to product page -> class productpgtest
+add product to cart -> class addtocarttest
+place order -> class placeordertest  
+ to excute test cases go to the class and right click -> choose run as testNG or any runner
+ 
